@@ -7,7 +7,7 @@
     <tr>
       <td><img class="badge" src="https://img.shields.io/github/stars/OmarrSakr/BuySpot-Store?style=plastic&color=ff8716" alt="GitHub stars"></td>
       <td><img class="badge" src="https://img.shields.io/github/forks/OmarrSakr/BuySpot-Store?style=plastic&color=ff8716" alt="GitHub forks"></td>
-      <td><img class="badge" src="https://img.shields.io/endpoint?url=https://hits.sh/github.com/OmarrSakr/BuySpot-Store.svg&style=plastic&label=Views&color=blue" alt="Repo Views"></td>
+      <td><img class="badge" src="https://komarev.com/ghpvc/?username=OmarrSakr&style=plastic&color=blue&label=Views" alt="Repo Views"></td>
     </tr>
     <tr>
       <td><img class="badge" src="https://img.shields.io/github/issues-pr/OmarrSakr/BuySpot-Store?color=orange&style=plastic" alt="Pull Requests"></td>
